@@ -1,6 +1,5 @@
 import {PencilLine} from "@phosphor-icons/react";
 import styles from "./Sidebar.module.css"
-import profileImg from "../assets/profile-img.jpg"
 import backgroundImg from "../assets/marsbg.jpg"
 
 
@@ -23,4 +22,4 @@ export function Sidebar() {
         </aside>
     )
 
-};
+}
